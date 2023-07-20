@@ -28,13 +28,14 @@ EXIT
 
 ```npm start```
 
-Provide instructions and examples for use. Include screenshots as needed.
+Movie 1: https://drive.google.com/file/d/1ZhWLJ59VCUN8Q3MjFedhP-81NCRxIk_e/view
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Movie 2: https://drive.google.com/file/d/1rJHKnEG82jjsQoPL8rL8PIyGBdonEBMN/view
 
-    ```md
-![alt text](assets/images/screenshot.png)
-    ```
+
+![alt text](./Develop/screenshots/Screenshot%202023-07-20%20at%207.51.04 PM.png)
+![alt text](./Develop/screenshots/Screenshot%202023-07-20%20at%207.51.24 PM.png)
+
 
 ## Credits
 
