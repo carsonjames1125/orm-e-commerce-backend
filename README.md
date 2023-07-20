@@ -11,28 +11,29 @@ n/a
 
 ## Installation
 
-npm i -- to install all necessary dependencies. 
+```npm i``` -- to install all necessary dependencies. 
 
 
 ## Usage
 
-mysql -u root -p -- to access mysql and enter a password.
+```mysql -u root -p ``` -- to access mysql and enter a password.
 
 Once prompted in mysql:
 
-SOURCE db/schema.sql
+```SOURCE db/schema.sql```
+
 EXIT
 
-npm run seed 
+```npm run seed```
 
-npm start
+```npm start```
 
 Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+![alt text](assets/images/screenshot.png)
     ```
 
 ## Credits
